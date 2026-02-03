@@ -1,15 +1,13 @@
 >> Restaurant On Cloud
 
-This is a Java web application developed as a project.
+#Description
+Restaurant on cloud is a web base application that helps manage restaurant operations likeadding categories,menu items,and generating customer bills.
 
 >> Technologies Used:
-- HTML, CSS, JavaScript
-- Java (Servlets/JSP)
+- HTML
+- CSS
+- JavaScript
+- Java 
+- Servlets/JSP
 - Apache Tomcat
 
->> Description:
-The application allows users to view menu items, place orders,
-and generate bills.
-
->> How to Run:
-- Deploy the WAR file on Apache Tomcat
